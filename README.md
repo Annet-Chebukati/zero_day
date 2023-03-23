@@ -1,4 +1,4 @@
-# [ALX Softwware Engineering Programme](https://www.alxafrica.com/about/)
+# [ALX Software Engineering Programme](https://www.alxafrica.com/about/)
 
 This repository stores my solutions to the amazing projects using vagrant I did at the ALX SWE Programme.
 
